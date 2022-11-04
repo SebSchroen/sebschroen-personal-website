@@ -1,0 +1,41 @@
+---
+title: ""
+about:
+  template: solana
+  image: img/avatar.jpg
+  image-shape: round
+  links:
+    - icon: globe
+      text: Web
+      href: https://www.finconda.de
+    - icon: github
+      text: Github
+      href: https://github.com/sebschroen
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/sebschroen
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sebastian-schroen/
+comments: false
+---
+
+
+
+I am a data scientist at Bahlsen Group, Hannover with a background in empirical finance, especially time series analysis and panel data.  
+
+
+My focus areas are:
+
+* (Multivariate) time series
+* Panel data
+* High-frequency and sensor data
+* Text mining
+* Finance
+
+
+
+
+
+
+

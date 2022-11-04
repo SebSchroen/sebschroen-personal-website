@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: public
+  render:
+    - "*.qmd"
+  preview:
+    port: 4321
+    browser: true
+
+website:
+  title: "Sebastian Schroen"
+  cookie-consent: true
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+      - text: About
+        file: about.qmd
+    right:
+      - icon: twitter
+        href: "https://twitter.com/SebSchroen"
+      - icon: github
+        href: "https://github.com/SebSchroen"
+
+  
+
+  # 
+  # page-footer:
+  #   left: |
+  #     {{< fa regular copyright >}} Sebastian Schroenl, 2022<br>
+  #     All content licensed under {{< fa brands creative-commons >}}
+  #     {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+  #     
+  #   right: |
+  #     Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+  #     Inspiration and code snippets taken from [these folks.](/posts/quarto-website-migration.html)<br>
+  #     [Source at {{< fa brands github >}} GitHub](https://github.com/andreashandel/andreashandelwebsite)
+  # 
+
+
+format:
+  html:
+    theme:
+      light: zephyr
+      dark: superhero
+    css: styles.css
+    toc: true
+
+

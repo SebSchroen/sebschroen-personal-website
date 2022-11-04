@@ -1,0 +1,15 @@
+---
+title: "Short professional biography"
+comments: false
+
+---
+
+
+
+### Current position
+
+In July 2022, I left my PostDoc position at Leibniz University Hannover for an exciting position in data science at Bahlsen Group, Hannover. 
+
+### Research focus
+
+
