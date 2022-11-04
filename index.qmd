@@ -22,7 +22,7 @@ comments: false
 
 
 
-I am a data scientist at Bahlsen Group, Hannover with a background in empirical finance, especially time series analysis and panel data.  
+I am a data scientist at Bahlsen Group, Hannover, with a background in empirical finance, especially time series analysis and panel data.  
 
 
 My focus areas are:
