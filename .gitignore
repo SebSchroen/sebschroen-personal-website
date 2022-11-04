@@ -4,3 +4,7 @@
 .Ruserdata
 
 /.quarto/
+.firebase
+.github
+firebase.json
+.firebaserc
