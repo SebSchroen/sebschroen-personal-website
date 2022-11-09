@@ -22,7 +22,7 @@ comments: false
 
 
 
-I am a data scientist at Bahlsen Group, Hannover, world-famous for Bahlsen and Leibniz cakes and biscuits.Before joining Bahlsen, I was a PostDoc at Leibniz University Hannover, focusing on empirical finance, especially time series analysis and panel data.  
+I am a data scientist at Bahlsen Group, Hannover, world-famous for Bahlsen and Leibniz cakes and biscuits. Before joining Bahlsen, I was a PostDoc at Leibniz University Hannover, focusing on empirical finance, especially time series analysis and panel data.  
 
 
 My focus areas are:
